@@ -1,0 +1,6 @@
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\bin\Debug\5.exe.config
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\bin\Debug\5.exe
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\bin\Debug\5.pdb
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\obj\Debug\5.exe
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\5\5\obj\Debug\5.pdb

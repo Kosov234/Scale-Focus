@@ -1,0 +1,6 @@
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\bin\Debug\7.exe.config
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\obj\Debug\7.csprojResolveAssemblyReference.cache
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\bin\Debug\7.exe
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\bin\Debug\7.pdb
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\obj\Debug\7.exe
+c:\users\anime\onedrive\документы\visual studio 2015\Projects\7\7\obj\Debug\7.pdb
