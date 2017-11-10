@@ -1,6 +1,0 @@
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\bin\Debug\6.exe.config
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\bin\Debug\6.exe
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\bin\Debug\6.pdb
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\obj\Debug\6.csprojResolveAssemblyReference.cache
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\obj\Debug\6.exe
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\6\6\obj\Debug\6.pdb

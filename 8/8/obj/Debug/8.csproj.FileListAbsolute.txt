@@ -1,6 +1,0 @@
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\bin\Debug\8.exe.config
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\bin\Debug\8.exe
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\bin\Debug\8.pdb
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\obj\Debug\8.csprojResolveAssemblyReference.cache
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\obj\Debug\8.exe
-c:\users\anime\onedrive\документы\visual studio 2015\Projects\8\8\obj\Debug\8.pdb
