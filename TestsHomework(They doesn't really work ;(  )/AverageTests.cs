@@ -19,11 +19,19 @@ namespace UnitTestProject1
         [TestMethod]
         public void AverageMinValue()
         {
-            Assert.AreEqual(0, Methods.BasicMethods.Average(-2147483648));
+            Assert.AreEqual(0, Methods.BasicMethods.Average(-32768));
+
         }
         public void AverageMaxValue()
         {
-            Assert.AreEqual(0, Methods.BasicMethods.Average(-2147483648));
+            Assert.AreEqual(16384, Methods.BasicMethods.Average(32767));
         }
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentOutOfRangeException))]
+        public void TestPalindromOutOfMaxRange()
+        {
+            Methods.BasicMethods.Average();
+        }
+
     }
 }

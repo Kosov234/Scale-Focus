@@ -10,10 +10,14 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Average(2147483647)); ;
+            Console.WriteLine(Average(1231241231)); ;
         }
         public static int Average(int n)
         {
+            if (n< -32768 || n > 32767)
+            {
+                throw new ArgumentOutOfRangeException();
+            }
             if (n==0)
             {
                 throw new System.DivideByZeroException();
