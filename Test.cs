@@ -10,20 +10,20 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Average(0)); ;
+            Console.WriteLine(Average(2147483647)); ;
         }
         public static int Average(int n)
         {
             if (n==0)
             {
                 throw new System.DivideByZeroException();
-                Console.WriteLine("NO :(");
             }
             int f = 0;
             for (int s = 0; s <= n; s++)
             {
                 f = f + s;
-            }
+             }
+
             int result = f / n;
             return result;
         }
