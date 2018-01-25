@@ -30,8 +30,7 @@ namespace UnitTestProject1
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void TestPalindromOutOfMaxRange()
         {
-            Methods.BasicMethods.Average();
+            Methods.BasicMethods.Average(32769);
         }
-
-    }
+   }
 }

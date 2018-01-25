@@ -10,7 +10,7 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Average(1231241231)); ;
+            Console.WriteLine(Average(32769)); ;
         }
         public static int Average(int n)
         {
