@@ -10,7 +10,8 @@ namespace Homework_arrays_1
     {
         static void Main()
         {
-            string[] array = { "Wrong", "Is", "Sentence", "This" };
+            string text = Console.ReadLine();
+            string[] array = text.Split(' ');
             int length = array.Length;
             string[] reversed = new string[length];
             for (int index = 0; index < length; index++)
