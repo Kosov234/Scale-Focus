@@ -47,3 +47,16 @@ namespace ObjectsAndClassesHOmewrok
         { Console.WriteLine("Ignition Key is not from this car"); }
     }
 }
+
+public string StopEngine()
+{
+    if (Engine.IsRunning == true)
+    {
+        Engine.IsRunning = false;
+        Console.WriteLine("Engine is stopped!");
+    }
+    else
+    {
+        Console.WriteLine("Engine is already stopped.");
+    }
+}
