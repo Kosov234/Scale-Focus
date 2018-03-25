@@ -35,24 +35,25 @@ namespace ObjectsAndClassesHOmewrok
         {
             if (Engine.IsRunning == false)
             {
-                Console.WriteLine("Everything is OK");
+                return Console.WriteLine("Everything is OK");
                 Engine.IsRunning = true;
             }
             else
             {
-                Console.WriteLine("Engine is already running!");
+                return Console.WriteLine("Engine is already running!");
             }
         }
         else
-        { Console.WriteLine("Ignition Key is not from this car"); }
+            return Console.WriteLine("Ignition Key is not from this car");
     }
+}
 }
 
 public string StopEngine()
 {
-    if (Engine.IsRunning == true)
+    if (ObjectsAndClassesHOmewrok.Engine.IsRunning == true)
     {
-        Engine.IsRunning = false;
+        ObjectsAndClassesHOmewrok.Engine.IsRunning = false;
         Console.WriteLine("Engine is stopped!");
     }
     else
